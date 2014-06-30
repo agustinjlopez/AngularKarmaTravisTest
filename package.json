@@ -1,7 +1,7 @@
 { 
   "name": "angularkarmatravistest",
-  "version": "0.0.0",
-  "dependencies": { },
+  "version": "0.0.1",
+  "dependencies": {},
   "devDependencies": {
     "grunt": "~0.4.1",
     "grunt-autoprefixer": "~0.4.0",
